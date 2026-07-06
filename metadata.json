@@ -1,0 +1,6 @@
+{
+  "name": "Content Studio",
+  "description": "A local-first content generation and organization workspace with Kanban, Calendar scheduling, and AI writing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
